@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48496" started-at="2016-05-15T07:44:24Z" finished-at="2016-05-15T07:45:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48496" started-at="2016-05-15T07:44:24Z" finished-at="2016-05-15T07:45:12Z">
+      <class name="Login.TestCase">
+        <test-method status="PASS" signature="bft()[pri:0, instance:Login.TestCase@2471cca7]" name="bft" is-config="true" duration-ms="10288" started-at="2016-05-15T13:14:24Z" finished-at="2016-05-15T13:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bft -->
+        <test-method status="PASS" signature="TC_001(java.lang.String, java.lang.String)[pri:0, instance:Login.TestCase@2471cca7]" name="TC_001" duration-ms="9531" started-at="2016-05-15T13:14:35Z" data-provider="dp2" finished-at="2016-05-15T13:14:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001 -->
+        <test-method status="PASS" signature="aft()[pri:0, instance:Login.TestCase@2471cca7]" name="aft" is-config="true" duration-ms="408" started-at="2016-05-15T13:14:44Z" finished-at="2016-05-15T13:14:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aft -->
+        <test-method status="PASS" signature="bft()[pri:0, instance:Login.TestCase@2471cca7]" name="bft" is-config="true" duration-ms="9007" started-at="2016-05-15T13:14:44Z" finished-at="2016-05-15T13:14:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bft -->
+        <test-method status="PASS" signature="TC_001(java.lang.String, java.lang.String)[pri:0, instance:Login.TestCase@2471cca7]" name="TC_001" duration-ms="3849" started-at="2016-05-15T13:14:53Z" data-provider="dp2" finished-at="2016-05-15T13:14:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001 -->
+        <test-method status="PASS" signature="aft()[pri:0, instance:Login.TestCase@2471cca7]" name="aft" is-config="true" duration-ms="261" started-at="2016-05-15T13:14:57Z" finished-at="2016-05-15T13:14:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aft -->
+        <test-method status="PASS" signature="bft()[pri:0, instance:Login.TestCase@2471cca7]" name="bft" is-config="true" duration-ms="8980" started-at="2016-05-15T13:14:58Z" finished-at="2016-05-15T13:15:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bft -->
+        <test-method status="PASS" signature="TC_001(java.lang.String, java.lang.String)[pri:0, instance:Login.TestCase@2471cca7]" name="TC_001" duration-ms="5615" started-at="2016-05-15T13:15:07Z" data-provider="dp2" finished-at="2016-05-15T13:15:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001 -->
+        <test-method status="PASS" signature="aft()[pri:0, instance:Login.TestCase@2471cca7]" name="aft" is-config="true" duration-ms="274" started-at="2016-05-15T13:15:12Z" finished-at="2016-05-15T13:15:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aft -->
+      </class> <!-- Login.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
